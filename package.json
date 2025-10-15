@@ -2,7 +2,7 @@
   "name": "ola-pescador",
   "version": "1.1.0",
   "scripts": {
-    "build": "node scripts/build-extensions.mjs",
+    "build": "node Scripts/build-extensions.mjs",
     "teste2e": "playwright test --reporter=list,html",
     "test": "npm run build && npm run teste2e"
   },
