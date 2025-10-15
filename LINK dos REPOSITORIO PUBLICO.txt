@@ -1,0 +1,6 @@
+LINK REPOSITORIO PUBLICO 
+https://github.com/joaoehrich/BOOTCAMP-II.git
+LINK GITHUB PAGES
+https://joaoehrich.github.io/BOOTCAMP-II/
+LINK RELEASE
+https://github.com/joaoehrich/BOOTCAMP-II/releases
